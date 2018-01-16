@@ -1,0 +1,13 @@
+#story {
+  display: none;
+}
+
+.btn {
+  background-color: yellowgreen;
+}
+
+
+.jumbotron {
+  background-color: beige;
+  text-align: center;
+}
